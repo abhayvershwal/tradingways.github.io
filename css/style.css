@@ -1426,6 +1426,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     line-height: 1;
     padding: 8px 0;
     margin-right: 4px;
+    margin-top: 15px;
     border-radius: 50%;
     text-align: center;
     width: 36px;
@@ -1498,6 +1499,45 @@ body.mobile-nav-active #mobile-nav-toggle {
     color: #18d26e;
 }
 
+#footer .footer-top .footer-linkz {
+    margin-bottom: 30px;
+}
+
+#footer .footer-top .footer-linkz p {
+    font-size: 14px;
+    line-height: 24px;
+    margin-bottom: 5px;
+    font-family: "Montserrat", sans-serif;
+    color: #eee;
+}
+
+#footer .footer-top .footer-linkz ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+#footer .footer-top .footer-linkz ul i {
+    padding-right: 8px;
+    color: #ddd;
+}
+
+#footer .footer-top .footer-linkz ul li {
+    padding: 5px 0;
+}
+
+#footer .footer-top .footer-linkz ul li:first-child {
+    padding-top: 0;
+}
+
+#footer .footer-top .footer-linkz ul a {
+    color: #eee;
+}
+
+#footer .footer-top .footer-linkz ul a:hover {
+    color: #18d26e;
+}
+
 #footer .footer-top .footer-contact {
     margin-bottom: 30px;
 }
@@ -1529,6 +1569,25 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #footer .footer-top .footer-newsletter input[type="submit"]:hover {
     background: #13a456;
+}
+
+#footer .button-footer {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 8px 15px;
+    border-radius: 50px;
+    transition: 0.5s;
+    margin: 5px;
+    color: #fff;
+    background: #18d26e;
+}
+
+#footer .button-footer:hover {
+    background: #fff;
+    color: #18d26e;
 }
 
 #footer .copyright {
