@@ -722,6 +722,8 @@ body.mobile-nav-active #mobile-nav-toggle {
     border-radius: 50px;
     transition: 0.5s;
     margin-bottom: 15px;
+    margin-right: 10px;
+    margin-left: 15px;
     color: #fff;
     background: #18d26e;
 }
