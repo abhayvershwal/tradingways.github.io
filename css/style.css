@@ -723,7 +723,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     transition: 0.5s;
     margin-bottom: 15px;
     margin-right: 10px;
-    margin-left: 15px;
+    margin-left: 120px;
     color: #fff;
     background: #18d26e;
 }
@@ -893,6 +893,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     width: 1px;
     text-align: left;
     transition: .9s;
+    background: #006400
 }
 
 
